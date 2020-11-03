@@ -1,0 +1,19 @@
+,subject,relation,object
+0,tiger,eats,meat
+1,tiger,has,striped fur
+2,tiger,has,claws
+3,tiger,has,tail
+4,lion,type of,cat
+5,tiger,type of,cat
+6,cat,type of,animal
+7,lion,has,claws
+8,lion,has,mane
+9,white tiger,type of,tiger
+10,cub,type of,tiger
+11,cub,is,young
+12,tiger,has,fur
+13,white tiger,has,white fur
+14,white fur,has,white color
+15,fur,has,color
+16,white,type of,color
+17,orange,type of,color
